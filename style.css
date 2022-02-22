@@ -1,16 +1,19 @@
 p {
     text-align: center;
-    
 }
 
 h1{
     text-align: center;
-    
 }
 
 body{
     background: #bbfffc
 }
+
 em strong{
     color: #8a2be2;
+}
+
+em p{
+    text-align: justify;
 }
