@@ -7,7 +7,7 @@ h1{
 }
 
 body{
-    background: #bbfffc
+    background: #eaf09a
 }
 
 em strong{
@@ -16,4 +16,8 @@ em strong{
 
 em p{
     text-align: justify;
+}
+
+em div {
+    text-align: center;
 }
