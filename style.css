@@ -11,7 +11,7 @@ body{
 }
 
 em strong{
-    text-align: center;
+    text-align: start;
     color: #8400ff;
 }
 
@@ -20,6 +20,6 @@ em p{
 }
 
 div {
-    text-align: center;
+    text-align: right;
     
 }
