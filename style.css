@@ -7,11 +7,12 @@ h1{
 }
 
 body{
-    background: #eaf09a
+    background: #eaf09a;
 }
 
 em strong{
-    color: #8a2be2;
+    text-align: center;
+    color: #8400ff;
 }
 
 em p{
