@@ -1,5 +1,5 @@
 p {
-    text-align: justify;
+    text-align: center
 }
 
 h1{
@@ -16,10 +16,14 @@ em strong{
 }
 
 em p{
-    text-align: justify;
+    text-align: center;
 }
 
 div {
-    text-align: right;
+    text-align: center;
     
+}
+
+.itens {
+    font-style: italic;
 }
