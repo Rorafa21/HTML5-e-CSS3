@@ -1,4 +1,4 @@
-p {
+p{
     text-align: center
 }
 
@@ -6,24 +6,31 @@ h1{
     text-align: center;
 }
 
-body{
-    background: #eaf09a;
+.apresentacao{
+    background: #c9c9c9;
 }
 
 em strong{
     text-align: start;
-    color: #8400ff;
+    color: #ff0000;
 }
 
 em p{
     text-align: center;
 }
 
-div {
-    text-align: center;
-    
+.itens{
+    font-style: italic;
 }
 
-.itens {
-    font-style: italic;
+.beneficios{
+    background: #FFFFFF;
+}
+
+h2{
+    text-align: center;
+}
+
+.img{
+    text-align: center;
 }
