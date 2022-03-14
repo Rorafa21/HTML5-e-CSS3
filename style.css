@@ -2,12 +2,14 @@ p{
     text-align: center
 }
 
-h1{
+.titulo-centralizado{
     text-align: center;
+    font-size: 120%;
 }
 
 .apresentacao{
     background: #c9c9c9;
+    padding: 30px;
 }
 
 em strong{
@@ -25,12 +27,29 @@ em p{
 
 .beneficios{
     background: #FFFFFF;
+    padding: 20px;
 }
 
-h2{
-    text-align: center;
+ul{
+    font-size: large;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    
 }
 
 .img{
     text-align: center;
+    width: 100%;
+    
+}
+
+.imagembeneficios{
+    width: 50%;
+    
+}
+
+.titulo-principal{
+    padding-left: ;
 }
