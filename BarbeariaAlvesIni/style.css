@@ -1,0 +1,55 @@
+p{
+    text-align: center
+}
+
+.titulo-centralizado{
+    text-align: center;
+    font-size: 120%;
+}
+
+.apresentacao{
+    background: #c9c9c9;
+    padding: 30px;
+}
+
+em strong{
+    text-align: start;
+    color: #ff0000;
+}
+
+em p{
+    text-align: center;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul{
+    font-size: large;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 25%;
+    
+}
+
+.img{
+    text-align: center;
+    width: 100%;
+    
+}
+
+.imagembeneficios{
+    width: 36%;
+    
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
