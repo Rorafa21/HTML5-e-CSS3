@@ -53,3 +53,31 @@ ul{
 .titulo-principal{
     padding-left: 20px;
 }
+
+header{
+    background: #BBBBBB;
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+
+nav a:hover{
+    color: #b30000;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
