@@ -17,6 +17,10 @@ nav a{
     
 }
 
+nav a:hover{
+    color: #b30000;
+}
+
 nav{
     position: absolute;
     top: 110px;
@@ -48,6 +52,18 @@ nav{
     border-radius: 10px 20px 10px 20px;
 }
 
+.produtos li:hover{
+    border-color: #b30000;
+}
+
+.produtos li:active{
+    border-color: #000000;
+}
+
+.produtos li:hover h2{
+    font-size: 34px;
+}
+
 .produtos h2{
     font-size: 30px;
     font-weight: bold;
@@ -62,4 +78,14 @@ nav{
     font-weight: bold;
     /*margin: 10px 0 0 ; maneira completa*/
     margin-top: 10px; /*maneira simplificada*/
+}
+
+footer{
+    text-align: center;
+    background:#000000;
+    padding: 40px;
+}
+
+.copyright{
+    color: #FFFFFF;
 }
