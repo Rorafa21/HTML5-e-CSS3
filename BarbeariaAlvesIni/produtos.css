@@ -5,12 +5,26 @@ nav li{
 
 header{
     background: #BBBBBB;
+    
 }
 
 nav a{
     text-transform: uppercase;
-    color: black;
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+    
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+.caixa{
+    position: relative;
+    width: 1280px;
+    margin: 0 auto;
 }
