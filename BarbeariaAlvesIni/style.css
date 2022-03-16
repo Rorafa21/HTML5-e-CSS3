@@ -54,14 +54,14 @@ ul{
     padding-left: 20px;
 }
 
-header{
-    background: #BBBBBB;
-    
-}
-
 nav li{
     display: inline;
     margin: 0 0 0 15px;
+}
+
+header{
+    background: #BBBBBB;
+    
 }
 
 nav a{
@@ -81,3 +81,16 @@ nav{
     position: absolute;
     top: 110px;
     right: 0px;
+}
+
+footer{
+    text-align: center;
+    background:#000000;
+    padding: 40px;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
